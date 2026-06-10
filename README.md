@@ -15,7 +15,6 @@
 
 🔬 Interests
 - Quantum Computing
-- Aerospace Technology
 - Software Development
 
 📫 Connect with me
